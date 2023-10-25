@@ -7,6 +7,8 @@
 
 ![Clauber GitHub stats](https://github-readme-stats.vercel.app/api?username=Clauber-DEV&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clauber-DEV&hide_progress=true)
+
 ## Linguagens e Tecnologias que uso.
 
 <div style="display: inline_block"><br/>
@@ -16,4 +18,6 @@
 <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div><br/>
+
+Gosto muito da programação e de ver como essa ferramenta ajuda no progresso da humanidade.
