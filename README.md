@@ -1,4 +1,4 @@
-﻿### Olá Clauber aqui
+﻿### Olá, Clauber aqui!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clauber-cardoso-1b032292/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](clauberccp@outlook.com)
