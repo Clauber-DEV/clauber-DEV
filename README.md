@@ -7,7 +7,7 @@
 
 ![Clauber GitHub stats](https://github-readme-stats.vercel.app/api?username=Clauber-DEV&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clauber-DEV&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clauber-DEV&layout=compact)
 
 ## Linguagens e Tecnologias que uso.
 
